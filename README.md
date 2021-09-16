@@ -27,4 +27,7 @@ The model also uses attention networks. This allows the model to only focus on t
 The linear layer is used to transform the output and the encoded image from the decoder to the same dimension. This is added to a ReLU activation function and softmax is used to generate the weights. This means the model looks at certain pixels in the images to determine which part to pay attention to next.
 
 
+## Results
 
+![Model Architecture](./images/result 1.png)
+![Model Architecture](./images/result 2.png)

@@ -29,5 +29,5 @@ The linear layer is used to transform the output and the encoded image from the 
 
 ## Results
 
-![Model Architecture](./images/result 1.png)
-![Model Architecture](./images/result 2.png)
+![Model Architecture](./images/result1.png)
+![Model Architecture](./images/result2.png)

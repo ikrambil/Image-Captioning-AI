@@ -32,5 +32,5 @@ The linear layer is used to transform the output and the encoded image from the 
 Our results were obtained by randomly generating images the model has never seen before with an online random image generator. 
 
 | Results|
-| ![Results](](./images/result1.png))  | ![Results](](./images/result2.png)) |
+| ![Model Architecture](./images/result1.png)  | ![Model Architecture](./images/result2.png) |
 

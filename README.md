@@ -35,7 +35,6 @@ Our results were obtained by randomly generating images the model has never seen
 | ------------- | 
 | ![Model Architecture](./images/result1.png) |  
 | Result 2  |
-
 | ![Model Architecture](./images/result2.png) |
 
 
@@ -43,6 +42,5 @@ Our results were obtained by randomly generating images the model has never seen
 | ------------- | 
 | ![Model Architecture](./images/result3.png)  |
 | Result 4  |
-| ------------- | 
 | ![Model Architecture](./images/result4.png) |
 

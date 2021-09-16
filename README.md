@@ -6,6 +6,8 @@
 
 Our model used an Encoder-Decoder architecture that used an Encoder to encode the input into a fixed form and a Decoder to decode it, word by word, into a sequence.
 
+![Model Architecture](./images/ModelArchitecture.png)
+
 ### Encoder
 
 The Encoder encodes the input image with 3 color channels into a smaller image with "learned" channels. This smaller encoded image is a summary representation of all that's useful in the original image.
